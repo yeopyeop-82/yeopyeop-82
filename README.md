@@ -58,7 +58,8 @@ Here are some ideas to get you started:
 
 <p>  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=yeopyeop-82&show_icons=true" width=54.5% />
+    <img src="https://github-readme-stats.vercel.app/api?username=yeopyeop-82&amp;show_icons=true&amp;theme=radical" alt="yeopyeop-82&#39;s GitHub stats" 
+         width=54.5% />
   </a>
   <a href="https://solved.ac/symj8253">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=symj8253" width=44% />
