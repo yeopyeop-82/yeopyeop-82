@@ -56,7 +56,8 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p>  
+<h3>✨Stats</h3>
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=yeopyeop-82&amp;show_icons=true&amp;theme=radical" alt="yeopyeop-82&#39;s GitHub stats" 
          width=54.5% />
@@ -64,7 +65,7 @@ Here are some ideas to get you started:
   <a href="https://solved.ac/symj8253">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=symj8253" width=44% />
   </a>
-  <h3>💕Most Used Language<br></h3>
   <hr>
+  <h3>💕Most Used Language<br></h3>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeopyeop-82&amp;layout=compact&amp;theme=radical" alt="Top Langs"></p>
 </p>
