@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>
   <a href="https://www.instagram.com/yeopyeop_82/"/>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
-  <a href="https://https://blog.naver.com/symj8253"/>
+  <a href="https://blog.naver.com/symj8253"/>
   <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp
   <a href="mailto:a01055143647@gmail.com"/>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
