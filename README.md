@@ -57,8 +57,9 @@ Here are some ideas to get you started:
 <hr>
 
 <p>
-  <h3 align="center">✨Stats<br> </h3>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yeopyeop-82&amp;show_icons=true&amp;theme=radical" alt="yeopyeop-82&#39;s GitHub stats"> <img src="http://mazassumnida.wtf/api/generate_badge?boj=symj8253" alt="Solved.ac Profile"></p>
-  <h3 align="center" id="most-used-language-br-">Most used language<br></h3>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeopyeop-82&amp;layout=compact&amp;theme=radical" alt="Top Langs"></p>
+  <h3>✨Stats<br> </h3>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=yeopyeop-82&amp;show_icons=true&amp;theme=radical" alt="yeopyeop-82&#39;s GitHub stats"> <img src="http://mazassumnida.wtf/api/generate_badge?boj=symj8253" alt="Solved.ac Profile"></p>
+  <h3>💕Most Used Language<br></h3>
+  <hr>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeopyeop-82&amp;layout=compact&amp;theme=radical" alt="Top Langs"></p>
 </p>
