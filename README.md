@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4>How to reach me : </h4>
+<h3>How to reach me : </h3>
 <p>
   <a href="https://www.instagram.com/yeopyeop_82/"/>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
