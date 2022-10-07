@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <hr>
   
-<h3 align="center"> 👨🏻‍💻Techs that I've used at least once💻 (Not mastered yet..)</h3>
+<h3 align="center"> 👨🏻‍💻Techs that I've used at least once💻 (Not yet mastered..)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
