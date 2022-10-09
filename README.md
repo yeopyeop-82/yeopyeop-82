@@ -1,5 +1,5 @@
 <h1> Seung-yeop Kim </h1>
-<h3>반갑습니다! Hi theref👋</h3>
+<h3>반갑습니다! Hi there👋</h3>
 
 <!--
 **yeopyeop-82/yeopyeop-82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
