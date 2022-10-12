@@ -67,6 +67,6 @@ Here are some ideas to get you started:
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=symj8253" width=44% />
   </a>
   <hr>
-  <h3>💕Most Used Language<br></h3>
+  <h3>💕Most Used Languages<br></h3>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeopyeop-82&amp;layout=compact&amp;theme=radical" alt="Top Langs"></p>
 </p>
