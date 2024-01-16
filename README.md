@@ -1,4 +1,4 @@
-<h1> Seung-yeop Kim </h1>
+<h1> Kim Seung-yeop </h1>
 <h3>반갑습니다! Hi there👋</h3>
 
 <!--
